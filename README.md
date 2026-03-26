@@ -30,15 +30,7 @@ Bioinformatics | AI in Medicine
 - ⚙️ Workflow automation & reproducible research  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,linux,git,github,vscode,anaconda,jupyter,docker&perline=9" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,latex,mysql,sqlite&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,ts,js,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,r,linux,git,github,vscode,anaconda,jupyter,docker,pytorch,tensorflow" />
 </p>
 
 ---
