@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm zzz</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00CFFF&center=true&vCenter=true&width=800&lines=Spatial+Transcriptomics+Analysis;Single-cell+RNA-seq+Pipeline;Bioinformatics+Engineering;Computational+Biology+Research" />
+</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<h1 align="center">🧬 Hi, I'm zzz</h1>
 
 <p align="center">
 Thoracic Surgery @ Guangxi Medical University <br>
-Spatial Transcriptomics & Single-cell Genomics 🧬 <br>
-Bioinformatics | Data-driven Research
+Spatial Transcriptomics & Single-cell Genomics 🔬 <br>
+Bioinformatics | AI in Medicine
 </p>
 
 ---
@@ -11,61 +16,84 @@ Bioinformatics | Data-driven Research
 ## 🧬 About Me
 
 - 🏥 Thoracic Surgery background  
-- 🔬 Focus on Spatial Transcriptomics & Single-cell RNA-seq  
-- 🧠 Interested in Bioinformatics & AI in Medicine  
-- 🚀 Currently learning Python & data analysis pipelines  
+- 🧬 Specialized in Spatial Transcriptomics & Single-cell RNA-seq  
+- 🧠 Experienced in bioinformatics analysis and data processing pipelines  
+- ⚙️ Capable of developing end-to-end computational workflows for biomedical data  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Stack
+
+- 🧬 Bioinformatics pipelines (Scanpy, Seurat)  
+- 🧠 Data analysis & visualization  
+- 🧪 High-throughput sequencing data processing  
+- ⚙️ Workflow automation & reproducible research  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,r,linux,git,github,vscode,anaconda,jupyter,docker&perline=9" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scanpy-Analysis-blue" />
-  <img src="https://img.shields.io/badge/Seurat-R-red" />
-  <img src="https://img.shields.io/badge/Bioinformatics-Research-green" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,matlab,latex,mysql,sqlite&perline=7" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,ts,js,html,css&perline=6" />
+</p>
+
+---
+
+## 🧬 Bioinformatics Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scanpy-Python-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seurat-R-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CellRanger-10x-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spatial-Transcriptomics-purple?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 Research Interests
+
+- 🧬 Spatial Transcriptomics  
+- 🧫 Single-cell RNA-seq  
+- 🧪 Tumor Microenvironment  
+- 🧠 AI for Biomedical Data  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Evanzzz98&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Evanzzz98&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evanzzz98&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evanzzz98&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧪 Research Interests
+## 🧪 Projects
 
-- Spatial Transcriptomics
-- Single-cell RNA-seq
-- Tumor Microenvironment
-- Computational Biology
-
----
-
-## 🚀 Projects
-
-🔬 Coming soon...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evanzzz98&repo=single-cell-analysis&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evanzzz98&repo=spatial-transcriptomics&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Evanzzz98/Evanzzz98/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: Evanzou666@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-Evanzou666@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
